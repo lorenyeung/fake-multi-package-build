@@ -1,0 +1,13 @@
+{
+  "packages":[
+    {
+    "package":"a"
+    },
+    {
+      "package":"b"
+    },
+    {
+      "package":"c"
+    }
+  ]
+}
